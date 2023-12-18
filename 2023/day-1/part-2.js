@@ -1,6 +1,6 @@
-import document from './document.js';
+import input from './input.js';
 
-const lines = document.split('\n');
+const lines = input.split('\n');
 const words = ['one', 'two', 'three', 'four',
     'five', 'six', 'seven', 'eight', 'nine'];
 
